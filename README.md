@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nipuni Ranathunga</h1>
-<h3 align="center">A passionate Software Engineer from Sri Lanka</h3>
+<h3 align="center">A passionate Software Quality Engineer from Sri Lanka</h3>
 <img align="right" alt="coding width="400" src="https://media.tenor.com/IF2JdxzmyN4AAAAj/coding-girl.gif">
 
 - 🌱 I’m currently following a **BSc Hons in IT Degree**
