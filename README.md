@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Software Quality Engineer from Sri Lanka</h3>
 <img align="right" alt="coding width="400" src="https://media.tenor.com/IF2JdxzmyN4AAAAj/coding-girl.gif">
 
-- 🌱 I’m currently following a **BSc Hons in IT Degree**
+- 🌱 I’m currently following a **BSc Hons in IT & Management Degree** and Also, ISTQB Certified Tester
 
 - 👨‍💻 My Portfolio is available at [https://nipunisathsara.netlify.app/](https://nipunisathsara.netlify.app/)
 
